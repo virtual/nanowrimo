@@ -3,6 +3,7 @@ title = "NaNoWriMo 2019"
 languageCode = "en-us"
 themesDir = "themes"
 theme = "hugo-serif-theme" 
+features = ["services","team","about"]
 
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
@@ -27,14 +28,11 @@ theme = "hugo-serif-theme"
 
 [menu]
   # Main Menu
-  [[menu.main]]
-    name = "Services"
-    url = "/services/"
-      weight = 1
+ 
 
   [[menu.main]]
-      name = "Team"
-      url = "/team/"
+      name = "Characters"
+      url = "/characters/"
       weight = 2
 
   # Footer Menu
@@ -42,8 +40,4 @@ theme = "hugo-serif-theme"
     name = "Home"
     url = "/"
       weight = 1
-
-  [[menu.footer]]
-    name = "Contact"
-    url = "/contact/"
-      weight = 2
+ 

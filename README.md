@@ -14,5 +14,5 @@
 - commit to git repo 
 
 ## New Post
-- `hugo new blog/my-post-name.md`
+- `hugo new characters/char-name.md`
 - `hugo server -D` (show drafts)
