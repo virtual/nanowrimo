@@ -7,6 +7,7 @@ image: "images/team/default.png"
 summary: "Lorem ipsum...."
 jobtitle: "Director"
 role: "Protagonist"
+about:
 age:
 height:
 face: 

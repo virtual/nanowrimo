@@ -7,11 +7,12 @@ image: "images/team/peter-van-eijk-711986-unsplash.jpg"
 summary: "https://www.linkedin.com/"
 jobtitle: "Director"
 role: "Protagonist"
-age:
-height:
-face: "Brown eyes, brown hair, white skin"
-physical: "Tall, curly hair, has a scar on her left arm, straight teeth"
-culturalbg: "White, german"
+age: 23
+appearance: 
+  height:
+  face: "Brown eyes, brown hair, white skin"
+  physical: "Tall, curly hair, has a scar on her left arm"
+  culturalbg: "White, german"
 skillsabilities:  "She enjoys acting in theater, and is good in science."
 lovetodo: "She loves to adventure (acting), she enjoys meeting with people. Acting is what she does best as posing as a twin and mother"
 family: "Reyna lives with her “mother”, who is actually her twin disguised"
