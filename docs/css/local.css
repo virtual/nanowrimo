@@ -58,3 +58,22 @@ body {
 .main-menu > ul > li > a {
   color: #14879C;
 }
+
+.intro { padding-top: 80px; padding-bottom: 80px; }
+
+h2.act { background: #14879C; color: #fff; padding: 5px 10px; width: 100%; display: block; 
+text-align: center; }
+
+.beatsheet-response p, .beatsheet-response { 
+  font-family: "DM Serif Display", serif, -apple-system;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5
+}
+.beatsheet-response p, .beatsheet-response {
+  font-family: serif;
+  font-size: 22px;
+  line-height: 1.5;
+  font-weight: normal;
+  color: #333;
+}

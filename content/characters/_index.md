@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: false
 
 # Story Characters
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+The characters of the story

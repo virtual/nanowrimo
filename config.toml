@@ -34,6 +34,12 @@ theme = "hugo-serif-theme"
       url = "/characters/"
       weight = 2
 
+
+  [[menu.main]]
+      name = "Beatsheet"
+      url = "/beatsheet/"
+      weight = 3
+
   # Footer Menu
   [[menu.footer]]
     name = "Home"
