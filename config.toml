@@ -10,9 +10,9 @@ theme = "hugo-serif-theme"
   google_tag_manager_id = ""
 
   [params.logo]
-    mobile = "images/logo-mobile.svg"
-    standard  = "images/logo.svg"
-    alt = "Serif - A Hugo Business Theme"
+    mobile = "images/logo-nano.svg"
+    standard  = "images/logo-nano.svg"
+    alt = "NaNoWriMo - A planning reference"
 
   [params.homepage_meta_tags]
     meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."

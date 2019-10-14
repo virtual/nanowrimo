@@ -4,36 +4,37 @@
 
 {{ define "main" }}
 <div class="container pb-3 pt-3 pt-md-4 pb-md-4">
-  <div class="row justify-content-start">
-    <div class="col-12 col-sm-6 col-md-3"> 
-      <img alt="{{ .Title }}" class="img-fluid mb-2" src="{{ .Params.image | relURL }}" /> 
-      <h1 class="title">{{.Title}}</h1>
-       
+  
+    <h1 class="title">{{.Title}}</h1>
+  <div class="char-info">
+
       <div class="card">
-          <div class="card-body">
-            <h5 class="card-title">Appearance</h5>
-        {{ range  .Params.appearance }}
-          {{ if . }}
-        
-              <p class="card-text">{{ . }} </p>
-          
-          {{ end }}
-      {{ end }}
+        <img alt="{{ .Title }}" class="card-img-top" src="{{ .Params.image | relURL }}" />
+        <div class="card-body">
+            
+          <p class="card-text">{{.Params.role}} <br/>{{ .Params.age }}, {{ .Params.jobtitle }} </p>
+        </div>
+      </div>
+
+    {{ range .Params.attributes }}
+    {{ if . }}
+    <div class="card">
+        {{ if .image }}<img src="{{.image | relURL }}" class="card-img-top" alt=""/>{{end}}  
+      <div class="card-body">
+        <h5 class="card-title">{{ .label }} </h5>
+        <p class="card-text">{{ .value }} </p>
+      </div>
     </div>
-  </div>  
-
-      </div>
-      <div class="col-12 col-sm-6 col-md-3">
-        </div>
-        <div class="col-12 col-sm-6 col-md-3">
-
-        </div>
+    {{ end }}
+    {{ end }}
 
 
-      </div>
-      <div class="content">{{.Content}}</div>
-      
+
+
   </div>
+  <div class="content">{{.Content}}</div>
+
+</div>
 </div>
 {{ end }}
 
@@ -42,8 +43,8 @@
 {{ $services := resources.Get "js/pages/services.js" }}
 {{ $servicesJS := slice $library $services |resources.Concat "js/services.js" }}
 {{ if .Site.IsServer }}
-  <script type="text/javascript" src="{{ $servicesJS.RelPermalink }}"></script>
-  {{ else }}
-  <script type="text/javascript" src="{{ ($servicesJS | minify | fingerprint).RelPermalink }}"></script>
-  {{ end }}
+<script type="text/javascript" src="{{ $servicesJS.RelPermalink }}"></script>
+{{ else }}
+<script type="text/javascript" src="{{ ($servicesJS | minify | fingerprint).RelPermalink }}"></script>
+{{ end }}
 {{ end }}
