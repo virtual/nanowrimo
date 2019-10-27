@@ -1,4 +1,4 @@
-baseURL = "http://virtual.github.io/nanowrimo19/"
+baseURL = "https://virtual.github.io/nanowrimo19/"
 title = "NaNoWriMo 2019"
 languageCode = "en-us"
 themesDir = "themes"

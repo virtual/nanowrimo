@@ -18,6 +18,7 @@
   {{ $style := resources.Get "scss/style.scss" | resources.ExecuteAsTemplate "style.scss" . | toCSS (dict "targetPath" "css/style.css" "enableSourceMap" false) }}
   <link rel="stylesheet" href="{{ ($style | minify | fingerprint).RelPermalink }}">
   {{ end }}
+  <link href="https://fonts.googleapis.com/css?family=Jomolhari&display=swap" rel="stylesheet"/>
   <link rel="stylesheet" href="{{ "css/local.css" | relURL }}">
 
 
