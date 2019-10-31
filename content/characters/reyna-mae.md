@@ -1,6 +1,5 @@
 ---
 title: "Reyna Mae Roebuck"
-date: 21018-11-19T10:47:58+10:00
 weight: 1
 draft: false
 image: "images/team/reyna.png"
@@ -71,6 +70,37 @@ attributes:
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Reyna Mae Roebuck is a 23-year-old gym assistant who enjoys watching sport, escapology and spreading fake news on Facebook. She is accurate and mechanical, but can also be very oblivious and a bit late.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+She is a British Christian. She started studying sports science at college but never finished the course.
+
+Physically, Reyna is not in great shape. She needs to lose quite a lot of weight. She is average-height with olive skin, golden hair and blue eyes. She has buck teeth.
+
+She grew up in a middle class neighbourhood. Her parents separated when she was small, but remained friends and provided a happy, stable home.
+
+She is currently in a relationship with Hugh Jerrard Campbell. Hugh is 18 years older than her and works as a sous chef.
+
+Reyna's best friend is a gym assistant called Meagan Evans. They get on well most of the time. She also hangs around with Eben Manley and Lenny Mullins. They enjoy football together.
+
+Date of birth:	Wednesday, 7th Oct 2054 (Age 23)
+Star sign:	Libra
+
+Moral:	sometimes
+Stable:	sometimes
+Loyal:	very
+Generous:	not at all
+Extrovert:	sometimes
+Compassionate:	sometimes
+Favourite foods:	ice cream, donuts
+
+Early years	Reyna grew up in a middle class neighbourhood. Her parents separated when she was small, but remained friends and provided a happy, stable home.
+Formative years	Reyna got is first job as a swim coach at age 18
+Reyna started college but quit part way through the course.
+
+2054	Age 0	 Reyna Roebuck is born 
+2072	Age 18	 Starts work as coach 
+2073	Age 19	 Gets together with Walter.
+ Resigns from job as coach
+ Starts work as stage actor
+2075	Age 21	 Relationship with Walter ends (Gethin wanted somebody more intellectual). 
+2077-10-01		Present Day

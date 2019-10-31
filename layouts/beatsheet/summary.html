@@ -7,6 +7,7 @@
       <h3 class="beatsheet-title">
           <a href="{{ .Permalink }}">{{ .Title }}</a>
         </h3>
+        <p class="page-nos">Pages: {{ .Params.pages }}</p>
         <p class="beatsheet-summary">{{ .Params.summary }}</p>
   </div>
   <div class="col-12 col-md-8 col-sm-6 beatsheet-response">{{ .Content  }}</div>
