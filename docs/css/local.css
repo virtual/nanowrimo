@@ -2,6 +2,9 @@
 body {
   background: whitesmoke;
 }
+h1, h2, h3, h4, h5 {
+  font-family: "Jomolhari", "DM Serif Display", serif, -apple-system;
+}
 
 .card {
   background: #fff;
@@ -65,7 +68,7 @@ h2.act { background: #14879C; color: #fff; padding: 5px 10px; width: 100%; displ
 text-align: center; }
 
 .beatsheet-response p, .beatsheet-response { 
-  font-family: "DM Serif Display", serif, -apple-system;
+  
   font-size: 18px;
   font-weight: 400;
   line-height: 1.5
@@ -76,4 +79,19 @@ text-align: center; }
   line-height: 1.5;
   font-weight: normal;
   color: #333;
+}
+
+.intro-image-absolute {
+  bottom: -1em;
+    left: -1em;
+    top: 1em;
+    right: 0;
+    position: relative;
+    width: 40vh;
+    margin: 0 auto;
+}
+.page-nos {
+  display: block;
+  color: #585858; 
+  font-family: "Jomolhari", "DM Serif Display", serif, -apple-system;
 }
