@@ -1,4 +1,4 @@
-# NaNoWriMo 2019
+# NaNoWriMo
 
 ## Development
 - Install Hugo: `brew install hugo`
