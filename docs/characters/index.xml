@@ -1,71 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Characters on NaNoWriMo 2019</title>
-    <link>https://virtual.github.io/nanowrimo19/characters/</link>
-    <description>Recent content in Characters on NaNoWriMo 2019</description>
+    <title>Characters on NaNoWriMo</title>
+    <link>https://virtual.github.io/nanowrimo/characters/</link>
+    <description>Recent content in Characters on NaNoWriMo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://virtual.github.io/nanowrimo19/characters/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://virtual.github.io/nanowrimo/characters/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reyna Mae Roebuck</title>
-      <link>https://virtual.github.io/nanowrimo19/characters/reyna-mae/</link>
+      <link>https://virtual.github.io/nanowrimo/characters/reyna-mae/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://virtual.github.io/nanowrimo19/characters/reyna-mae/</guid>
-      <description>Reyna Mae Roebuck is a 23-year-old gym assistant who enjoys watching sport, escapology and spreading fake news on Facebook. She is accurate and mechanical, but can also be very oblivious and a bit late.
-She is a British Christian. She started studying sports science at college but never finished the course.
-Physically, Reyna is not in great shape. She needs to lose quite a lot of weight. She is average-height with olive skin, golden hair and blue eyes.</description>
+      <guid>https://virtual.github.io/nanowrimo/characters/reyna-mae/</guid>
+      <description>An actor and science teacher</description>
     </item>
     
     <item>
       <title>Jack Steele Huron</title>
-      <link>https://virtual.github.io/nanowrimo19/characters/jack-huron/</link>
+      <link>https://virtual.github.io/nanowrimo/characters/jack-huron/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://virtual.github.io/nanowrimo19/characters/jack-huron/</guid>
-      <description>24-year-old admin assistant who enjoys bowling. He is kind and reliable, but can also be very lazy and a bit moody.
-He is an American Christian who defines himself as straight. He has a degree in business studies. He is allergic to Brazil nuts. He is obsessed with selfies.
-Physically, Brendan is slightly overweight but otherwise in good shape. He is average-height with light skin, blonde hair and blue eyes.</description>
+      <guid>https://virtual.github.io/nanowrimo/characters/jack-huron/</guid>
+      <description>An actor and science teacher</description>
     </item>
     
     <item>
       <title>Francisco Roebuck</title>
-      <link>https://virtual.github.io/nanowrimo19/characters/francisco/</link>
+      <link>https://virtual.github.io/nanowrimo/characters/francisco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://virtual.github.io/nanowrimo19/characters/francisco/</guid>
-      <description>(Lifespan: 2014 - present)</description>
+      <guid>https://virtual.github.io/nanowrimo/characters/francisco/</guid>
+      <description>Father / Journalist</description>
     </item>
     
     <item>
       <title>Colin Manley</title>
-      <link>https://virtual.github.io/nanowrimo19/characters/colin-manley/</link>
+      <link>https://virtual.github.io/nanowrimo/characters/colin-manley/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://virtual.github.io/nanowrimo19/characters/colin-manley/</guid>
-      <description></description>
+      <guid>https://virtual.github.io/nanowrimo/characters/colin-manley/</guid>
+      <description>Reyna&amp;rsquo;s friend</description>
     </item>
     
     <item>
       <title>Corina Berry Roebuck</title>
-      <link>https://virtual.github.io/nanowrimo19/characters/corina/</link>
+      <link>https://virtual.github.io/nanowrimo/characters/corina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://virtual.github.io/nanowrimo19/characters/corina/</guid>
-      <description>Half sister (shared mother)</description>
+      <guid>https://virtual.github.io/nanowrimo/characters/corina/</guid>
+      <description>Reyna idolises Corina.</description>
     </item>
     
     <item>
       <title>Arlo Danika Berry</title>
-      <link>https://virtual.github.io/nanowrimo19/characters/arlo/</link>
+      <link>https://virtual.github.io/nanowrimo/characters/arlo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://virtual.github.io/nanowrimo19/characters/arlo/</guid>
-      <description>(Lifespan: 2019 - 2068) Reyna and Corina&amp;rsquo;s mother</description>
+      <guid>https://virtual.github.io/nanowrimo/characters/arlo/</guid>
+      <description>Generally harmonious.</description>
     </item>
     
   </channel>
