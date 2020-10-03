@@ -1,5 +1,5 @@
-baseURL = "https://virtual.github.io/nanowrimo19/"
-title = "NaNoWriMo 2019"
+baseURL = "https://virtual.github.io/nanowrimo/"
+title = "NaNoWriMo"
 languageCode = "en-us"
 themesDir = "themes"
 theme = "hugo-serif-theme" 
@@ -15,15 +15,15 @@ theme = "hugo-serif-theme"
     alt = "NaNoWriMo - A planning reference"
 
   [params.homepage_meta_tags]
-    meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-    meta_og_title = "Hugo Serif Theme"
+    meta_description = "A planning reference for NaNoWriMo"
+    meta_og_title = "NaNoWriMo Template"
     meta_og_type = "website"
-    meta_og_url = "http://virtual.github.io/nanowrimo19/"
+    meta_og_url = "http://virtual.github.io/nanowrimo/"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-    meta_og_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+    meta_og_description = "A planning reference for NaNoWriMo"
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@satinflame"
+    meta_twitter_creator = "@satinflame"
 
 [menu]
   # Main Menu
